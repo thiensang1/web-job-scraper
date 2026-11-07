@@ -26,7 +26,7 @@ Mục tiêu của dự án là xây dựng một pipeline dữ liệu tự độ
 
 ## Cách Hoạt Động & Cấu Trúc
 
-Hệ thống bao gồm các scrapers độc lập, mỗi scraperđược trang bị kịch bản riêng để đối phó với từng mục tiêu:
+Hệ thống bao gồm các scrapers độc lập, mỗi scraper được trang bị kịch bản riêng để đối phó với từng mục tiêu:
 
 ### 1. Scraper TopCV
 - **Thách thức:** TopCV có hệ thống chống bot rất mạnh và tải dữ liệu động bằng JavaScript.
