@@ -1,5 +1,4 @@
-// --- ĐIỆP VIÊN ĐƠN ĐỘC (SCRAPER) - PHIÊN BẢN TỐI THƯỢNG ---
-// Cập nhật: Tích hợp cấu trúc do thám "Kế hoạch A, Kế hoạch B".
+// ---SCRAPER
 
 const puppeteer = require('puppeteer-extra');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
